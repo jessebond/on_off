@@ -4,7 +4,7 @@ from time import sleep
 
 p = [0, 0]  # packets out, in
 total = 0
-max = 8
+max = 5
 cutoff = 2500.0
 c = 1
 timeout_val = 3000.0
